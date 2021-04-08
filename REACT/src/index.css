@@ -1,0 +1,28 @@
+body {
+
+    padding: 0px 0px 100px 0px ;
+}
+
+.global {
+    margin-top: 20px;
+    /*border: solid 1px orange*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:  14px;
+}
+
+.element {
+    margin-top: 20px;
+    border-radius: 15px;
+    padding: 15px;
+    height: auto;
+}
+
+.inLine {
+    float:left;
+    clear:both;
+
+}
+
+.small {
+    font-size: 12px;
+}

@@ -1,0 +1,51 @@
+body {
+    padding: 0px 0px 100px 0px ;
+}
+
+.viewDemo {
+    cursor: pointer;
+    margin:10px 0px 10px 0px;
+    text-align:center;
+}
+
+.viewLink {
+    color: blue;
+    cursor: pointer;
+    font-weight:bold;
+    font-size:18px;
+    text-decoration:underline;
+    
+}
+
+.global {
+    margin-top: 10px;
+    /*border: solid 1px orange*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:  14px;
+}
+
+.element {
+    margin-top: 10px;
+    border-radius: 15px;
+    padding: 15px;
+    height: auto;
+}
+
+.inLine {
+    float:left;
+    clear:both;
+    text-align:right;
+}
+
+.inAfter {
+    text-align:left;
+}
+
+.small {
+    font-size: 12px;
+}
+
+.warning {
+    color:#cc0000;
+    font-weight:bold;
+}
