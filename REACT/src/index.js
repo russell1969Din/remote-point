@@ -9,7 +9,7 @@ class App extends React.Component {
     const SQL = 'SELECT pers_id, pers_name, pers_surname, pers_birth, street_zip, street_name, ' +
       'pers_number, pers_color, city_name FROM person, street, city ' +
       'WHERE pers_idStreet = street_id AND street_city = city_id ';
-    const URL = 'https://vt.abnet.sk';
+    const URL = 'https://ep.abnet.sk';
     const user = 'userRemotePoint';
     const pass = 'enigma';
     const serial = '123-ABC';
